@@ -1,0 +1,6 @@
+C:\Users\Zahid\Desktop\New folder\DemoApplication\PartialClass\PartialClass\bin\Debug\PartialClass.exe.config
+C:\Users\Zahid\Desktop\New folder\DemoApplication\PartialClass\PartialClass\bin\Debug\PartialClass.exe
+C:\Users\Zahid\Desktop\New folder\DemoApplication\PartialClass\PartialClass\bin\Debug\PartialClass.pdb
+C:\Users\Zahid\Desktop\New folder\DemoApplication\PartialClass\PartialClass\obj\Debug\PartialClass.exe
+C:\Users\Zahid\Desktop\New folder\DemoApplication\PartialClass\PartialClass\obj\Debug\PartialClass.pdb
+C:\Users\Zahid\Desktop\New folder\DemoApplication\PartialClass\PartialClass\obj\Debug\PartialClass.csprojResolveAssemblyReference.cache
